@@ -10,3 +10,4 @@ I am in master branch.
 
 - added STL vector
 
+- used size() function

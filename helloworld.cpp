@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
 		intv.push_back(i*2);
 		}
 
-	for (int i = 0; i < LOOP_COUNTER; i++)
+	for (int i = 0; i < intv.size(); i++)
 		{
 		cout << intv[i] << "\tHello, World!" << endl;
 		}
